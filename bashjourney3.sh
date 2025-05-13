@@ -21,7 +21,7 @@ y=cronjob_result.log
 # to setting time 
 # 05 12 * * * /bin/bash /home/raja/github1/first-repo-git/bashjourney3.sh
 
-# edit #
+## edit ##
 # perhaps there still be error on cronjob code
 # because the y (cronjob_resul) did not come
 # i will try to find out why

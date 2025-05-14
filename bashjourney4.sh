@@ -44,3 +44,7 @@ do
 		*) echo "none of them";;
 	esac
 done
+
+
+# next i will try learning some script
+# like basic update and backup script first

@@ -14,3 +14,6 @@ sudo apt dist-upgrade
 echo "...."
 sudo apt autoremove
 sudo apt autoclean
+
+# edit #
+# next make backup script and combining it with cronjob

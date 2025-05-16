@@ -17,3 +17,7 @@ sudo apt autoclean
 
 # edit #
 # next make backup script and combining it with cronjob
+
+# edit #
+# i think after backup script, i will try learning HTML and CSS for web development
+# wish me luck

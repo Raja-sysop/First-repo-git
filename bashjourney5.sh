@@ -21,3 +21,5 @@ sudo apt autoclean
 # edit #
 # i think after backup script, i will try learning HTML and CSS for web development
 # wish me luck
+# edit #
+

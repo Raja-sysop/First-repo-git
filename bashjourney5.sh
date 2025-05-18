@@ -23,3 +23,10 @@ sudo apt autoclean
 # wish me luck
 # edit #
 
+# edit #
+"""
+still, a little bit strugling tu push my code
+from vsc editor to github
+i'm on my way learning web developtment 
+first learning html and CSS
+"""
